@@ -6,6 +6,7 @@ Wowjs Working With React NextJs
 Under _app.js
 <br>
 
+(`
 function MyApp({ Component, pageProps }) {
     useEffect(() => {
         
@@ -17,7 +18,7 @@ function MyApp({ Component, pageProps }) {
     }, []);
 }
 export default MyApp
-
+`)
 <br>
 Under Layout Js
 <br>
