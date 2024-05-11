@@ -12,6 +12,7 @@ https://www.npmjs.com/package/wowjs
 <br/>
 
       function MyApp({ Component, pageProps }) {
+      
         useEffect(() => {
           const WOW = require('wowjs');
           window.wow = new WOW.WOW({
@@ -19,6 +20,7 @@ https://www.npmjs.com/package/wowjs
           });
           window.wow.init();
         }, []);
+        
       }
       export default MyApp
 
@@ -30,11 +32,12 @@ https://www.npmjs.com/package/wowjs
 
 
     useEffect(() => {
-        
+    
         const WOW = require('wowjs');
         window.wow = new WOW.WOW({
             live: false
         });
         window.wow.init();
+        
     }, [])
 
