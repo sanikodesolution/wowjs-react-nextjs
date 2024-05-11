@@ -5,7 +5,7 @@ Wowjs Working With React NextJs
 
 <br/>
 
-Under _app.js
+# Under _app.js
 
 <br/>
 
@@ -22,7 +22,7 @@ Under _app.js
 
 <br/>
 
-Under Layout Js
+# Under Layout Js
 
 <br/>
 
