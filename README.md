@@ -4,7 +4,7 @@ Wowjs Working With React NextJs
 `` npm install wowjs ``
 <br>
 Under _app.js
-`<br>`
+<br>
 ``
 
 function MyApp({ Component, pageProps }) {
@@ -20,9 +20,9 @@ function MyApp({ Component, pageProps }) {
 
 export default MyApp
 ``
-`<br>`
+<br>
 Under Layout Js
-`<br>`
+<br>
 ``
 
     useEffect(() => {
