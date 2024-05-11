@@ -2,6 +2,8 @@
 Wowjs Working With React NextJs
 
 `` npm install wowjs ``
+# Here Is NPM Installation Link
+https://www.npmjs.com/package/wowjs
 
 <br/>
 
