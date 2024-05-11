@@ -2,7 +2,7 @@
 Wowjs Working With React NextJs
 
 `` npm install wowjs ``
-`<br>`
+<br>
 Under _app.js
 `<br>`
 ``
