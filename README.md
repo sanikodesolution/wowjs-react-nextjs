@@ -5,7 +5,7 @@ Wowjs Working With React NextJs
 <br>
 Under _app.js
 <br>
-``
+
 function MyApp({ Component, pageProps }) {
     useEffect(() => {
         
@@ -17,11 +17,11 @@ function MyApp({ Component, pageProps }) {
     }, []);
 }
 export default MyApp
-``
+
 <br>
 Under Layout Js
 <br>
-``
+
 
     useEffect(() => {
         
@@ -31,4 +31,4 @@ Under Layout Js
         });
         window.wow.init();
     }, [])
-``
+
